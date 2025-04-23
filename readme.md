@@ -1,7 +1,7 @@
 ## CPU-Simulator GUI
 A grahical user interface application with these components: CPU Simulator, QR code and Barcode Generator.
 
-
+This fork expands on the CPU scheduling algorithms options with 2 additional CPU scheduling algorithms: earliest deadline first, and shortest remaining time first. 
 ## Usage
 
 ```
